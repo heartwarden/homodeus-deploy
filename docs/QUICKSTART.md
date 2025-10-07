@@ -13,7 +13,7 @@ Get your Matrix Synapse and PieFed services running in minutes!
 
 ```bash
 # Download and run deployment script
-curl -fsSL https://raw.githubusercontent.com/heartwarden/homodeus-deploy/main/deploy.sh -o deploy.sh
+curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/homodeus-deploy/main/deploy.sh -o deploy.sh
 chmod +x deploy.sh
 
 # Deploy both Matrix and PieFed (recommended)
@@ -145,7 +145,7 @@ sudo fail2ban-client status matrix-synapse
 - 📖 [Full Documentation](README.md)
 - 🔒 [Security Guide](SECURITY.md)
 - 💾 [Backup & Restore](BACKUP_RESTORE.md)
-- 🐛 [Issue Tracker](https://github.com/heartwarden/homodeus-deploy/issues)
+- 🐛 [Issue Tracker](https://github.com/YOUR_USERNAME/homodeus-deploy/issues)
 
 ## Next Steps
 
