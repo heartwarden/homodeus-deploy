@@ -1,8 +1,8 @@
 # Homodeus Deploy
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub release](https://img.shields.io/github/v/release/YOUR_USERNAME/homodeus-deploy.svg)](https://github.com/YOUR_USERNAME/homodeus-deploy/releases)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/homodeus-deploy.svg)](https://github.com/YOUR_USERNAME/homodeus-deploy/stargazers)
+[![GitHub release](https://img.shields.io/github/v/release/heartwarden/homodeus-deploy.svg)](https://github.com/heartwarden/homodeus-deploy/releases)
+[![GitHub stars](https://img.shields.io/github/stars/heartwarden/homodeus-deploy.svg)](https://github.com/heartwarden/homodeus-deploy/stargazers)
 
 🔒 Secure, production-ready deployment system for Matrix Synapse and PieFed with rootless Podman containers, fail2ban integration, and encrypted logs.
 
