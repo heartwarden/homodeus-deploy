@@ -1,0 +1,37 @@
+# Secrets - NEVER commit these!
+*.env
+*secrets*/
+.secrets/
+.log_key
+
+# Generated files
+Caddyfile.generated
+*.backup
+*.bak
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Backups
+*.gpg
+*.tar.gz
+backups/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Testing
+test/
+.test/
